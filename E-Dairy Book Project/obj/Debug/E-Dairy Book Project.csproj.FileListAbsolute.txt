@@ -1,0 +1,20 @@
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\bin\Debug\E-Dairy Book Project.exe.config
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\bin\Debug\E-Dairy Book Project.exe
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\bin\Debug\E-Dairy Book Project.pdb
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E-Dairy Book Project.csprojResolveAssemblyReference.cache
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.splash.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Properties.Resources.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E-Dairy Book Project.csproj.GenerateResource.Cache
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E-Dairy Book Project.exe
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E-Dairy Book Project.pdb
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Login.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Cows.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\bin\Debug\Guna.UI.dll
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Milkproduction.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Breeding.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Cowhealth.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Finance.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Sales.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Dashboard.resources
+C:\ANIKET COLLAGE WORK\major project\Dairy shop Managament\E-Dairy Book Project\E-Dairy Book Project\obj\Debug\E_Dairy_Book_Project.Employee.resources
